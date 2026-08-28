@@ -25,7 +25,7 @@ A modular, robust 2-player Tic-Tac-Toe console game developed in C++ showcasing 
 
 **1. Clone Repository**
 ```bash
-git clone [https://github.com/MusaQureshi90/cpp-cli-tictactoe.git](https://github.com/MusaQureshi90/cpp-cli-tictactoe.git)
+git clone https://github.com/MusaQureshi90/cpp-cli-tictactoe.git
 cd cpp-cli-tictactoe
 ```
 
